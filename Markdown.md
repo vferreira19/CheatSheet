@@ -1,3 +1,3 @@
 # Markdown Cheat Sheet
 
-![cheatsheet](image.png)
+![markdown](images/markdown1)
